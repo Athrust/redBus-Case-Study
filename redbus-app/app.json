@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "redBus Clone",
-    "slug": "redbus-clone",
+    "name": "redBus",
+    "slug": "redbus-vikalp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/redbus/logo.png",
@@ -16,7 +16,8 @@
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.teamvantage.redbusvikalp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
