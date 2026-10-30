@@ -1,0 +1,11 @@
+# Binary and decompiled files
+base.apk
+*.apk
+extracted_apk/
+
+# Dependencies & build outputs
+node_modules/
+.expo/
+dist/
+web-build/
+.DS_Store
